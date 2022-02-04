@@ -1,0 +1,10 @@
+(cl:defpackage lab_1_pkg-srv
+  (:use )
+  (:export
+   "CUSTOMSERVICE"
+   "<CUSTOMSERVICE-REQUEST>"
+   "CUSTOMSERVICE-REQUEST"
+   "<CUSTOMSERVICE-RESPONSE>"
+   "CUSTOMSERVICE-RESPONSE"
+  ))
+
